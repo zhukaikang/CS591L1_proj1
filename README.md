@@ -1,6 +1,6 @@
-#Readme file
+# Readme file
 
-##BNF Notation
+## BNF Notation
 
 
     program = statement
